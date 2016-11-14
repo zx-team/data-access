@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jsoninfo>
+	<cfg_MachineId>
+		<type>String</type>
+		<sqlField>sbid</sqlField>
+	</cfg_MachineId>
+	<sys_time>
+		<type>Date</type>
+		<sqlField>sjkssj</sqlField>
+		<dateformat>yyyy-MM-dd HH:mm:ss</dateformat>
+	</sys_time>
+	<MODESTATUS>
+		<type>String</type>
+		<sqlField>xtzt</sqlField>
+	</MODESTATUS>
+	<CNCRUNLEVEL>
+		<type>String</type>
+		<sqlField>cwzt</sqlField>
+	</CNCRUNLEVEL>
+
+
+
+
+	<SPDSR>
+		<type>Double</type>
+		<sqlField>zzzsz_s</sqlField>
+	</SPDSR>
+	<FEEDSCALE>
+		<type>Double</type>
+		<sqlField>zzplz</sqlField>
+	</FEEDSCALE>
+	<SPDMTLOAD>
+		<type>Double</type>
+		<sqlField>zzfzz</sqlField>
+	</SPDMTLOAD>
+	<FREAL>
+		<type>Double</type>
+		<sqlField>zjsdz_f</sqlField>
+	</FREAL>
+	<POSONSCREEN-XC>
+		<type>Double</type>
+		<sqlField>xaxis</sqlField>
+	</POSONSCREEN-XC>
+	<POSONSCREEN-YC>
+		<type>Double</type>
+		<sqlField>yaxis</sqlField>
+	</POSONSCREEN-YC>
+	<POSONSCREEN-ZC>
+		<type>Double</type>
+		<sqlField>zaxis</sqlField>
+	</POSONSCREEN-ZC>
+
+
+
+	<AXONERROR-X>
+		<type>Integer</type>
+		<sqlField>xzgzzt</sqlField>
+	</AXONERROR-X>
+	<SPDONERROR>
+		<type>Integer</type>
+		<sqlField>zzgzzt</sqlField>
+	</SPDONERROR>
+
+
+
+	<T>
+		<type>Integer</type>
+		<sqlField>dqjgdjbh</sqlField>
+	</T>
+
+
+	<oeeValue>
+		<type>String</type>
+		<sqlField>sboee</sqlField>
+	</oeeValue>
+
+
+
+
+
+
+	<ncprogramm>
+		<type>String</type>
+		<sqlField>dqjgcxmc</sqlField>
+	</ncprogramm>
+	<N>
+		<type>Integer</type>
+		<sqlField>dqcxyxztdm</sqlField>
+	</N>
+	<dayProcessPartsCount>
+		<type>Integer</type>
+		<sqlField>drjgs</sqlField>
+	</dayProcessPartsCount>
+	
+	
+	<equSerialNo>
+		<type>String</type>
+		<sqlField>sbbh</sqlField>
+	</equSerialNo>
+	
+	<EXEFILE>
+		<type>String</type>
+		<sqlField>cxmc</sqlField>
+	</EXEFILE>
+	
+	<PL_PARCOUNT>
+		<type>String</type>
+		<sqlField>pl_parcount</sqlField>
+	</PL_PARCOUNT>
+	
+</jsoninfo>
